@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/vouchergame.id",
     "slug": "vouchergame",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
-    "time": 1668,
-    "timeDay": 2083,
-    "timeWeek": 2122,
-    "timeMonth": 1708,
-    "timeYear": 1668,
+    "uptimeYear": "99.96%",
+    "time": 1671,
+    "timeDay": 1828,
+    "timeWeek": 2091,
+    "timeMonth": 1720,
+    "timeYear": 1671,
     "dailyMinutesDown": {
       "2022-05-14": 29
     }
